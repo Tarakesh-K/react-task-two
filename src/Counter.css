@@ -1,0 +1,14 @@
+.box-2 {
+    background-color: rgba(0, 0, 0, 0.872);
+    color: white;
+    padding: 80px 0px;
+}
+
+.box-2 h2 {
+    font-size: 60px;
+}
+
+.box-2 p {
+    font-size: 20px;
+    color: lightslategray;
+}

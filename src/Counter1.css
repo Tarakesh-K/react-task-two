@@ -1,0 +1,57 @@
+.row-1 {
+    margin: 70px 0px;
+}
+
+.row-main {
+    margin-bottom: 30px;
+}
+
+.card-body {
+    vertical-align: middle;
+}
+
+.body-top {
+    padding: 50px 0px;
+    margin: 0px 20px;
+    border-radius: 5px;
+    background-color: rgba(128, 128, 128, 0.514);
+}
+
+.body-top p {
+    font-size: 25px;
+    color: lightslategray;
+}
+
+.body-main-content {
+    margin: 0px 20px;
+    padding-bottom: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.514);
+    border-radius: 5px;
+}
+
+.body-content {
+    margin: 25px 0px 50px;
+}
+
+.body-content-2 {
+    margin: 25px 0px 15px;
+}
+
+.body-content h5 {
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.body-content-2 h5 {
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+
+.star-gold {
+    color: gold;
+    margin-bottom: 10px;
+}
+
+.body-content s, .body-content-2 s {
+    color: gray;
+}
